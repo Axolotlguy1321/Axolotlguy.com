@@ -1,0 +1,4 @@
+mysave = Story
+mysave2 = Freeplay
+mysave3 = Tutorial
+mysave4 = Extreme
