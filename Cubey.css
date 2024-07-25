@@ -1,0 +1,20 @@
+body {
+    background-image: url("Images/bg.png");
+    background-repeat: repeat;
+  }
+  p {
+    color: rgb(255, 0, 0);
+}
+h1 {
+  color: rgb(255, 0, 0);
+}
+h2 {
+  color: rgb(255, 0, 0);
+}
+@font-face {
+  font-family: "Lobster2";
+  src: url("fonts/Lobster2.ttf") format("ttf");
+}
+body {
+  font-family: "Lobster2", cursive;
+}
