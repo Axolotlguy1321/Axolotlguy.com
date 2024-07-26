@@ -1,6 +1,5 @@
 body {
-    background-image: url("Images/bg.png");
-    background-repeat: repeat;
+    background-color: cyan;
   }
   p {
     color: rgb(255, 0, 0);
