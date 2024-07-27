@@ -10,10 +10,3 @@ h1 {
 h2 {
   color: rgb(255, 0, 0);
 }
-@font-face {
-  font-family: "Lobster2";
-  src: url("fonts/Lobster2.ttf") format("ttf");
-}
-body {
-  font-family: "Lobster2", cursive;
-}
