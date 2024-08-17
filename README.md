@@ -1,2 +1,3 @@
 My website!
-Link: https://axolotlguy1321.github.io/Axolotlguy.com/
+(I moved website hosters, so this one is outdated)
+Link: https://axolotlguy.netlify.app/
